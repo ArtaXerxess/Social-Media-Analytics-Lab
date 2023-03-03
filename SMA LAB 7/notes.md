@@ -1,6 +1,6 @@
 
 
-[code](https://www.analyticsvidhya.com/blog/2022/07/sentiment-analysis-using-python/)
+[code](https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-in-python-95e354ea84f6)
 
 
-[data](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis)
+[data](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?select=Reviews.csv)
