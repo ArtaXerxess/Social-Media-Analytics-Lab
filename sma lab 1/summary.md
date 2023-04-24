@@ -28,3 +28,14 @@ analisa
 semrush
 
 ![image](https://user-images.githubusercontent.com/74452252/233892945-92daa2d9-a13e-44c2-971d-8f869a68d086.png)
+
+
+
+| Tool Name | Description/Explanation | Organizations/Companies that Use It | Examples of Companies/Organizations |
+|-----------|------------------------|------------------------------------|-----------------------------------|
+| Analisa | Analisa is a data analysis tool that helps organizations analyze and visualize large datasets. It provides insights and helps in decision making based on data-driven analysis. | Tech companies, marketing agencies, research institutions, financial organizations | Google, Facebook, IBM, McKinsey & Company |
+| Social Blade | Social Blade is a social media analytics tool that provides insights into social media profiles, including statistics on followers, engagement, and growth. It is commonly used by social media influencers, content creators, and businesses to track their social media performance. | Social media influencers, content creators, digital marketing agencies, social media managers | Instagram influencers, BuzzFeed, Coca-Cola, Hootsuite |
+| SEMrush | SEMrush is a comprehensive SEO (Search Engine Optimization) and digital marketing tool that offers features such as keyword research, competitor analysis, and website auditing. It helps organizations improve their online visibility, optimize their websites for search engines, and plan their marketing strategies. | Digital marketing agencies, SEO professionals, content marketers, e-commerce companies | Airbnb, Amazon, eBay, Microsoft |
+| Tweepsmap | Tweepsmap is a Twitter analytics tool that provides insights and data on Twitter profiles, including followers, engagement, and demographics. It helps organizations track their Twitter performance, optimize their content strategy, and engage with their audience effectively. | Social media managers, digital marketing agencies, brand managers, PR agencies | Nike, McDonald's, Ogilvy, Edelman |
+| Trendsmap | Trendsmap is a real-time Twitter trending topics and hashtags tracking tool that visualizes the most popular trends on Twitter based on location. It helps organizations monitor and analyze Twitter trends in different regions, identify popular topics, and engage in real-time conversations. | News organizations, social media managers, content creators, PR agencies | CNN, BBC, Twitter, BuzzFeed News |
+| SimilarWeb | SimilarWeb is a web analytics tool that provides data and insights on website traffic, audience demographics, and online competitive analysis. It helps organizations understand their website performance, benchmark against competitors, and make data-driven decisions for their online strategy. | Digital marketing agencies, e-commerce companies, online publishers, market researchers | Walmart, Airbnb, Expedia, BBC News |
