@@ -30,6 +30,7 @@ semrush
 ![image](https://user-images.githubusercontent.com/74452252/233892945-92daa2d9-a13e-44c2-971d-8f869a68d086.png)
 
 
+Certainly! Here's the updated table with two additional tools: NoxInfluencer and Instrack:
 
 | Tool Name | Description/Explanation | Organizations/Companies that Use It | Examples of Companies/Organizations |
 |-----------|------------------------|------------------------------------|-----------------------------------|
@@ -39,3 +40,5 @@ semrush
 | Tweepsmap | Tweepsmap is a Twitter analytics tool that provides insights and data on Twitter profiles, including followers, engagement, and demographics. It helps organizations track their Twitter performance, optimize their content strategy, and engage with their audience effectively. | Social media managers, digital marketing agencies, brand managers, PR agencies | Nike, McDonald's, Ogilvy, Edelman |
 | Trendsmap | Trendsmap is a real-time Twitter trending topics and hashtags tracking tool that visualizes the most popular trends on Twitter based on location. It helps organizations monitor and analyze Twitter trends in different regions, identify popular topics, and engage in real-time conversations. | News organizations, social media managers, content creators, PR agencies | CNN, BBC, Twitter, BuzzFeed News |
 | SimilarWeb | SimilarWeb is a web analytics tool that provides data and insights on website traffic, audience demographics, and online competitive analysis. It helps organizations understand their website performance, benchmark against competitors, and make data-driven decisions for their online strategy. | Digital marketing agencies, e-commerce companies, online publishers, market researchers | Walmart, Airbnb, Expedia, BBC News |
+| NoxInfluencer | NoxInfluencer is a social media influencer marketing platform that helps businesses identify and connect with influencers across different social media platforms. It provides insights on influencers' audience demographics, engagement rates, and pricing, helping organizations plan and execute influencer marketing campaigns. | Marketing agencies, e-commerce companies, brand managers, PR agencies | Samsung, Adidas, Unilever, L'Oreal |
+| Instrack | Instrack is an Instagram analytics tool that provides insights and data on Instagram profiles, including followers, engagement, and growth. It helps organizations track their Instagram performance, optimize their content strategy, and measure the success of their Instagram marketing efforts. | Social media managers, digital marketing agencies, content creators, brand managers | PepsiCo, Airbnb, Sephora, Coca-Cola |
