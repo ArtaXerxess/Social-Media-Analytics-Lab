@@ -5,6 +5,8 @@
 
 6 semrush (note : only 10 requests per day, so have multiple gmails)
 
+7 [vaderSentiment](https://github.com/cjhutto/vaderSentiment)  : [code](https://github.com/ArtaXerxess/Social-Media-Analytics-Lab/blob/main/SMA%20Lab%207/sma_sentiment_analysis.ipynb) 
+
 9 tweepsmap, trendsmap, similarweb
 
 
