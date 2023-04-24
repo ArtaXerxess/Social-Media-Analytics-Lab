@@ -1,4 +1,12 @@
 
+1,2,8 analisa (better) and social blade
+
+3,4,5 [code](https://github.com/ArtaXerxess/Social-Media-Analytics-Lab/tree/main/SMA%20LAB%203)
+
+6 semrush (note : only 10 requests per day, so have multiple gmails)
+
+9 tweepsmap, trendsmap, similarweb
+
 
 social blade
 
@@ -13,3 +21,8 @@ analisa
 
 ![image](https://user-images.githubusercontent.com/74452252/233891473-c635cc95-2d93-4004-92da-18a6ac34fe0b.png)
 
+
+
+semrush
+
+![image](https://user-images.githubusercontent.com/74452252/233892945-92daa2d9-a13e-44c2-971d-8f869a68d086.png)
