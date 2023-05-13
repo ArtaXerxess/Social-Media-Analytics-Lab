@@ -1,3 +1,5 @@
+
+
 Here's a table to explain the challenges to social media analytics:
 
 | Challenge                  | Description                                                                                                                                                                                                                                                                                                |
