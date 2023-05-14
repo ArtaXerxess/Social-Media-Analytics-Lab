@@ -1,3 +1,23 @@
+Sure, here is an updated table including the additional KPIs of lead generation, return on investment (ROI), and cost per acquisition (CPA):
+
+| Key Performance Indicator | Definition |
+|---------------------------|------------|
+| Engagement rate | Measures how much users are interacting with your content, such as likes, shares, comments, and clicks. |
+| Reach | Measures the total number of unique users who have seen your content. |
+| Impressions | Measures the total number of times your content has been displayed to users. |
+| Click-through rate (CTR) | Measures the percentage of users who clicked on a link in your content. |
+| Conversion rate | Measures the percentage of users who completed a desired action, such as making a purchase or filling out a form. |
+| Follower growth rate | Measures the rate at which your social media following is growing. |
+| Share of voice | Measures the percentage of mentions or conversations about your brand compared to your competitors. |
+| Sentiment analysis | Measures the tone of conversations about your brand on social media, whether positive, negative, or neutral. |
+| Customer satisfaction | Measures how satisfied your customers are with your brand and their experience on social media. |
+| Social media traffic | Measures the amount of traffic that your website receives from social media channels. |
+| Lead generation | Measures the number of leads generated from your social media marketing efforts. |
+| Return on Investment (ROI) | Measures the profitability of your social media marketing campaign. |
+| Cost per Acquisition (CPA) | Measures the cost of acquiring a customer through social media marketing. |
+
+These KPIs can help businesses track and measure the effectiveness of their social media marketing efforts and make data-driven decisions to improve their strategy.
+
 Sure, here is a table summarizing the differences between traditional and social recommendation systems:
 
 |                | Traditional Recommendation Systems | Social Recommendation Systems |
