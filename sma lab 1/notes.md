@@ -1,3 +1,14 @@
+Sure, here is a table summarizing the differences between traditional and social recommendation systems:
+
+|                | Traditional Recommendation Systems | Social Recommendation Systems |
+|----------------|------------------------------------|--------------------------------|
+| Data Used      | User behavior data (browsing history, purchase history, etc.) | User behavior data + Social interactions data (likes, shares, etc.) |
+| Recommendation Method | Algorithmic (based on user behavior data) | Collaborative filtering (based on user behavior data and social interactions) |
+| Strengths      | Accurate recommendations based on user behavior | Relevant recommendations based on social interactions and user feedback |
+| Weaknesses     | May fail to capture user preferences accurately | May suffer from biases and inaccuracies if the user's social network is not diverse or if recommendations are based solely on social interactions |
+| Commonly used in | E-commerce, media industries | Social media, news, and entertainment industries |
+
+
 The theory of basic network structures, such as singletons, dyads, and triads, and their properties is used in social media analytics to understand the structure and dynamics of social networks in online settings. By analyzing these basic network structures and their properties, social media analysts can gain insights into the behavior of users and the flow of information within the network.
 
 For example, the study of dyads in social media networks can help analysts understand the dynamics of relationships between two users and how they interact with each other. By studying triads, analysts can identify influential users within a network who may have a significant impact on the behavior of others. The analysis of singletons can help identify users who may be isolated from the network or who have limited social connections.
